@@ -1317,7 +1317,13 @@
 			"src": "meta/windows/windowsphone-storelogo-50-50.png",
 			"type": "image/png",
 			"sizes": "50x50"
-		}
+		},
+		{
+      		"src": "/maskable_icon.png",
+      		"sizes": "196x196",
+      		"type": "image/png",
+      		"purpose": "any maskable"
+    	}
 	],
 	"short_name": "The Noesis",
 	"dir": "auto",
